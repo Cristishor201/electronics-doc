@@ -1,25 +1,25 @@
-# Documentatie <!-- drop down cu link catre limba <ro>-->
+# Documentation <!-- drop down cu link catre limba <ro>-->
 
-In acest proiect veti gasi informatii despre placi de baza, senzori, motoare, in general module.
+In this project you will find informations about controllers, sensors, motors, in other words modules.
 
-## Motivatie
-In calatoria mea prin electronica, am decis sa fac acest proiect de documentatie a tot ce am invatat, atat pentru mine cat si pt ceilalti, astfel incat sa fie o informatie simpla, usoara, si accesibila.
+## Motivation
+In my journey through electronics, I decided to make this documentation project of all that I learned so far, both for me and others, so it be a simple easy accessible information. 
 
-## Contributie
+## Contribution
 
-Daca vreti sa contribuiti la acest proiect o puteti face fie prin adaugarea unui nou *issue* (task), fie printr-un pull request.
+If you want to contribute to this project, you can do it either adding a new *issue* (task), either with a pull request.
 
-Tine cont de faptul ca voi lucra mai intai la ce mi-am propus, si apoi ma apuc de task-urile propuse. Prioritatea de selectare a task-urilor propuse, se face in functie de cat de multe likeuri :+1: are fiecare task.
+Be aware that firstly I will work of what I planned, and then I can start of the propused issues. The priority of selection from isuues, it is done depending of how much likes :+1: has each issue.
 
-## Autor
+## Author
 
 - Cristian Florescu - [Cristishor201](https://github.com/Cristishor201)
 
-## Licenta
+## License
 
-Puteti folosi la liber informatiile din acest proiect atat necomercial, cat si comercial, cu o singura mentiune: specificati referinta catre profilul meu, [Cristishor201](https://github.com/Cristishor201), sau cel mai bine catre acest proiect [electronics-doc](https://github.com/Cristishor201/electronics-doc). Nu va asumati meritul pentru munca altuia. Implicit puteti folosi si obtiunea de fork, daca doriti acest lucru.
+You can use freely the informations from this projects, both non-comercial, and comercial, with only one rule: specify the reference to my profile [Cristishor201](https://github.com/Cristishor201), or even better to this repo [electronics-doc](https://github.com/Cristishor201/electronics-doc). Don't take credit for someone else's work. Implicitly you can use also the fork option, if you want it to.
 
-In ce priveste imaginile unele dintre ele imi apartin, altele sunt luate de pe internet. Pentru detalii sursa de unde le-am luat vezi in  [REFERINTE.md](https://github.com/Cristishor201/electronics-doc/blob/RO/REFERINTE.md). 
+Regarding the images some are mines, others are taken from the internet. For source details from where did I get them from look in [REFERENCES.md](https://github.com/Cristishor201/electronics-doc/blob/EN/REFERENCES.md). 
 
-Acest proiect este licentiat de **MIT license** - vezi [LICENSE](https://github.com/Cristishor201/electronics-doc/blob/RO/LICENSE) pentru detalii.
+This project is licensed under the **MIT license** - see the [LICENSE](https://github.com/Cristishor201/electronics-doc/blob/EN/LICENSE) file for details.
 
