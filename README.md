@@ -19,7 +19,7 @@ Tine cont de faptul ca voi lucra mai intai la ce mi-am propus, si apoi ma apuc d
 
 Puteti folosi la liber informatiile din acest proiect atat necomercial, cat si comercial, cu o singura mentiune: specificati referinta catre profilul meu, [Cristishor201](https://github.com/Cristishor201), sau cel mai bine catre acest proiect [electronics-doc](https://github.com/Cristishor201/electronics-doc). Nu va asumati meritul pentru munca altuia. Implicit puteti folosi si obtiunea de fork, daca doriti acest lucru.
 
-In ce priveste imaginile unele dintre ele imi apartin, altele sunt luate de pe internet. Pentru detalii sursa de unde le-am luat vezi in  [REFERINTE](#). 
+In ce priveste imaginile unele dintre ele imi apartin, altele sunt luate de pe internet. Pentru detalii sursa de unde le-am luat vezi in  [REFERINTE.md](https://github.com/Cristishor201/electronics-doc/blob/RO/REFERINTE.md). 
 
 Acest proiect este licentiat de **MIT license** - vezi [LICENSE](https://github.com/Cristishor201/electronics-doc/blob/RO/LICENSE) pentru detalii.
 
