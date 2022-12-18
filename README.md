@@ -1,4 +1,4 @@
-# Documentation <!-- drop down cu link catre limba <ro>-->
+# Documentation
 
 In this project you will find informations about controllers, sensors, motors, in other words modules.
 <br />For documentation [go here](https://github.com/Cristishor201/electronics-doc/wiki).
