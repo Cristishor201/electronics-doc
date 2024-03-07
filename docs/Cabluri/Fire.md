@@ -10,7 +10,7 @@
 
 <h2><u>Crocodili</u></h2>
 
-<img src="_img/fire/crocodili.jpg" alt="crocodili" />----------
+<img src="_img/fire/crocodili.jpg" alt="crocodili" />
 
 <h2><u>wires precuted (flat wires)</u></h2>
 

@@ -17,7 +17,7 @@ Lead - temperatura mai mica de topire
 Se topeste foarte greu doar cu letconul, avand nu doar o temperatura de topire mai mare, dar si comportament farmicios din cauza ca are mult Plumb.
 
 > [!WARNING]
-> Acesta nu-l recomand deloc !
+> Acesta nu-l recomand deloc !<br />
 
 2. Sn60 Pb40 2.5% flux
 

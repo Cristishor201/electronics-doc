@@ -6,5 +6,5 @@
 - scurtat pini
 
 > [!TIP]
-> Observatie:
-> E bun si pt dezizolat fire (subtiri)
+> Observatie:<br />
+> E bun si pt dezizolat fire (subtiri)<br />

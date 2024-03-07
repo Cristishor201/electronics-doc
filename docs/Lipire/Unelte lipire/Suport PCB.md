@@ -5,12 +5,12 @@ A. Suport cu clestisori
 <img src="_img/suport/suport_1.jpg" alt="suport_1" />
 
 > [!WARNING]
-> Nu strangeti prea puternic suruburile ca vi se strica mult mai repede
+> Nu strangeti prea puternic suruburile ca vi se strica mult mai repede<br />
 
 B. Suport cu cleme
 
 <img src="_img/suport/suport_2.png" alt="suport_2" />
 
 > [!TIP]
-> Observatie:
-> nu se poate lucra cu el la PCB-uri marunte, datorita spatiului mare din gheara clemei 
+> Observatie:<br />
+> nu se poate lucra cu el la PCB-uri marunte, datorita spatiului mare din gheara clemei<br />

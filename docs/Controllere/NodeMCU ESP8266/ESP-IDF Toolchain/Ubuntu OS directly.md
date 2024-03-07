@@ -26,7 +26,7 @@ Insert the DVD in the PC where you want to install Ubuntu.
 
 **Step 4**<br>
 Right click again on the ubuntu image, but this time choose *Burn disc image*. After that Select your *DVD disc drive*, and also check on *Verify disc after burning*. And then  hit Burn.<br>
-<img src="_img/directly/os_2.PNG" alt="os_2" />
+<img src="_img/directly/os_2.png" alt="os_2" />
 
 **Step 5**<br>
 After the writing the DVD has completed succesefully, hit Close button, and inserting on the computer where you want to install it.
