@@ -1,1 +1,10 @@
-Raspberry Pi 4
+Hardware:
+  Raspberry Pi 4 - placa
+
+Software:
+  Raspberry Pi OS Lite
+  Release date: December 11th 2023
+  System: 64-bit
+  Kernel version: 6.1
+  Debian version: 12 (bookworm)
+  Size: 433MB
