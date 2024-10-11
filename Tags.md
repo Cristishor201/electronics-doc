@@ -123,6 +123,19 @@
 <a href="docs/Senzori/4.Senzor culoare RGB - TCS34725 Adafruit.md">4.Senzor culoare RGB - TCS34725 Adafruit</a><br />
 
 
+## Raspberry Pi
+
+<a href="docs/Controllere/Raspberry Pi 4/1.Despre Raspberry Pi 4.md">1.Despre Raspberry Pi 4</a><br />
+<a href="docs/Controllere/Raspberry Pi 4/2.Descarcare_si_Instalare.md">2.Descarcare_si_Instalare</a><br />
+<a href="docs/Controllere/Raspberry Pi 4/3.Conectat la monitor laptop.md">3.Conectat la monitor laptop</a><br />
+<a href="docs/Controllere/Raspberry Pi 4/4.Schimbat font afisare consola.md">4.Schimbat font afisare consola</a><br />
+<a href="docs/Controllere/Raspberry Pi 4/5.Conexiune prin ssh.md">5.Conexiune prin ssh</a><br />
+<a href="docs/Controllere/Raspberry Pi 4/6.Comenzi utile.md">6.Comenzi utile</a><br />
+<a href="docs/Controllere/Raspberry Pi 4/7.Schimb de fisiere prin WinSCP.md">7.Schimb de fisiere prin WinSCP</a><br />
+<a href="docs/Controllere/Raspberry Pi 4/8.Montat stick USB.md">8.Montat stick USB</a><br />
+<a href="docs/Controllere/Raspberry Pi 4/9.Back-up automat pe USB stick.md">9.Back-up automat pe USB stick</a><br />
+
+
 ## ESP-IDF
 
 <a href="docs/Controllere/NodeMCU ESP8266/Install & Configure.md">Install & Configure ESP8266</a><br />
