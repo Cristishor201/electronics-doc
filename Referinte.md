@@ -66,6 +66,11 @@ Raspberry Pi exFAT: Adding Support for exFAT File System</a><br />
 <a href="https://the.earth.li/~sgtatham/putty/latest/w64/putty-64bit-0.75-installer.msi">putty-64bit-0.75-installer.msi</a><br />
 
 
+# Network
+<a href="https://angryip.org/download/#windows">Angry IP Scanner</a>
+<a href="https://canyouseeme.org/">Open Port Check Tool</a>
+
+
 ## Storage Drive
 
 <a href="https://www.pcmag.com/how-to/fat32-vs-exfat-vs-ntfs-which-format-is-best-for-your-storage-drive">FAT32 vs. ExFAT vs. NTFS: Which Format Is Best for Your Storage Drive?</a><br />
@@ -89,6 +94,10 @@ Raspberry Pi exFAT: Adding Support for exFAT File System</a><br />
 
 <a href="https://www.epa.gov/sunsafety/uv-index-scale-0">UV Index scale poza</a><br />
 <a href="https://en.wikipedia.org/wiki/Humidity#Relative_humidity">Umiditate Relativa / Absoluta</a><br />
+
+## Ventilator Raspberry
+
+<a href="https://g.co/gemini/share/c4f4376a4d6f">Gemini - setare ventilator</a> 
 
 
 ## Cabluri

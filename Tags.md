@@ -131,9 +131,12 @@
 <a href="docs/Controllere/Raspberry Pi 4/4.Schimbat font afisare consola.md">4.Schimbat font afisare consola</a><br />
 <a href="docs/Controllere/Raspberry Pi 4/5.Conexiune prin ssh.md">5.Conexiune prin ssh</a><br />
 <a href="docs/Controllere/Raspberry Pi 4/6.Comenzi utile.md">6.Comenzi utile</a><br />
-<a href="docs/Controllere/Raspberry Pi 4/7.Schimb de fisiere prin WinSCP.md">7.Schimb de fisiere prin WinSCP</a><br />
+<a href="docs/Controllere/Raspberry Pi 4/7.Setare controller ventilator.md">7.Setare controller ventilator</a>
+<a href="docs/Controllere/Raspberry Pi 4/8.Conexiune ssh - externa prin duckDNS.md">8.Conexiune ssh - externa prin duckDNS.md</a>
+
+<!--<a href="docs/Controllere/Raspberry Pi 4/7.Schimb de fisiere prin WinSCP.md">7.Schimb de fisiere prin WinSCP</a><br />
 <a href="docs/Controllere/Raspberry Pi 4/8.Montat stick USB.md">8.Montat stick USB</a><br />
-<a href="docs/Controllere/Raspberry Pi 4/9.Back-up automat pe USB stick.md">9.Back-up automat pe USB stick</a><br />
+<a href="docs/Controllere/Raspberry Pi 4/9.Back-up automat pe USB stick.md">9.Back-up automat pe USB stick</a><br />-->
 
 
 ## ESP-IDF
