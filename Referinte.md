@@ -31,6 +31,9 @@ Raspberry Pi exFAT: Adding Support for exFAT File System</a><br />
 <a href="https://forums.debian.net/viewtopic.php?t=147859">Auto-mounting exFAT with fstab</a><br />
 <a href="https://www.youtube.com/watch?v=sKn-jOxJMYM">Creating aliases in the .bash_aliases file on the Raspberry Pi</a><br />
 <a href="https://www.youtube.com/watch?v=livu_eAlUT0">Raspberry Pi Backup | rsnapshot</a><br />
+<a href="https://www.duckdns.org/">Duck DNS
+free dynamic DNS</a><br />
+<a href="https://www.dynadot.com/help/question/enable-DDNS">How do I enable Dynamic DNS for my domain</a><br>
 
 
 ## Comunicatii serial
